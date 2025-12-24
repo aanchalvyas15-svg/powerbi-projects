@@ -1,6 +1,19 @@
 # Power BI Projects
 
 This repository contains my Power BI dashboards built using real-world datasets.
+## 🧠 Anxiety and Stress Analysis – Power BI Dashboard
+
+### 📊 Dashboard View
+![Main Dashboard](Screenshot 2025-12-20 202936.png)
+
+### 🧭 Page Navigation
+![Page Navigation](Screenshot 2025-12-21 202502.png)
+*This navigation panel allows users to quickly move between Home, Introduction, Dashboard, and Insights pages.*
+
+### 📌 Insights Explanation
+![Insights Explanation](Screenshot 2025-12-21 202554.png)
+*This section provides a brief explanation of the key insights observed in the dashboard visuals.*
+
 
 ## Tools Used
 - Power BI
